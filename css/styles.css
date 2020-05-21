@@ -22,12 +22,12 @@ html {
   --blue-3: rgb(64, 200, 244);
   --blue-3A: rgba(64, 200, 244, 0.7);
   --blue-3B: rgba(64, 200, 244, 0.9);
-  --CEO-1: url('/images/CTM-CEO-1.jpg');
+  --CEO-1: url('https://github.com/Spektrum868/CTM/blob/master/images/CTM-CEO-1.jpg?raw=true');
   --CEO-2: url('/images/CTM-CEO-2.jpg');
   --CEO-3: url('/images/CTM-CEO-3.jpg');
   --CEO-4: url('/images/CTM-CEO-4.jpg');
   --CEO-5: url('/images/CTM-CEO-5.jpg');
-  --CEO-6: url('/images/CTM-CEO-6.jpg');
+  --CEO-6: url('https://github.com/Spektrum868/CTM/blob/master/images/CTM-CEO-6.jpg?raw=true');
   --CEO-7: url('/images/CTM-CEO-7.jpg');
   --CTM-gradient-1: linear-gradient(75deg, var(--blue-1A), var(--blue-3A));
   --CTM-gradient-2: linear-gradient(122deg, var(--blue-2A), var(--blue-3A));
